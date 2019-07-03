@@ -25,7 +25,7 @@
   "techs": [
     {
       "id": 1,
-      "firstName": "John",
+      "firstName": "Johnny",
       "lastName": "Doe"
     },
     {
@@ -37,6 +37,21 @@
       "id": 3,
       "firstName": "Sara",
       "lastName": "Wilson"
+    },
+    {
+      "firstName": "Daniel",
+      "lastName": "Deverell",
+      "id": 5
+    },
+    {
+      "firstName": "Jill",
+      "lastName": "Smith",
+      "id": 6
+    },
+    {
+      "firstName": "Sammy",
+      "lastName": "Hagar",
+      "id": 7
     }
   ]
 }
